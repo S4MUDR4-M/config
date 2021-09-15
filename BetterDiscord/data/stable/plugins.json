@@ -1,0 +1,15 @@
+{
+    "BDFDB": true,
+    "ZeresPluginLibrary": true,
+    "PlatformIndicators": true,
+    "BetterRoleColors": true,
+    "CallTimeCounter": true,
+    "CreationDate": true,
+    "FreeEmojis": true,
+    "HideDisabledEmojis": true,
+    "JoinedAtDate": true,
+    "ShowBadgesInChat": true,
+    "ShowHiddenChannels": true,
+    "SplitLargeMessages": true,
+    "WhoReacted": true
+}
